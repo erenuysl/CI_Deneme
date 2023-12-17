@@ -63,9 +63,9 @@
 
             <label for="gender">Cinsiyet:</label>
             <select id="gender" name="gender" required>
-                <option value="male">Erkek</option>
-                <option value="female">Kadın</option>
-                <option value="other">Diğer</option>
+                <option value="Erkek">Erkek</option>
+                <option value="Kadın">Kadın</option>
+                <option value="Diğer">Diğer</option>
             </select>
 
             <input type="submit" value="Gönder">
